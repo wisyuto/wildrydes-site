@@ -5,6 +5,6 @@ window._config = {
         region: 'us-east-1' // デプロイするリージョンを記載。e.g. ap-northeast-1
     },
     api: {
-        invokeUrl: '' // 今は記載不要。e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl: 'https://jdo7ca2bli.execute-api.us-east-1.amazonaws.com/prod' // 今は記載不要。e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
